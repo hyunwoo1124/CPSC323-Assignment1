@@ -5,7 +5,7 @@ Author: Mike Cheng, Raymond Laurente, Hyun Woo Kim
 Professor: Anthony Le
 Description: Authors will create a lexical analysis tester
 			 that detects tokens from the analysis and display
-			 lexemes using C++
+			 lexemes using C++(check if pushed)
 */
 
 //libraries
